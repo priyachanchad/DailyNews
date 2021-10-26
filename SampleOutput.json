@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Naomi Osaka ousted at US Open, weighs another break from tennis - Fox News",
+            "description": "Naomi Osaka looked over at her agent and said she wanted to tell the world what the two of them had discussed privately after her U.S. Open title defense ended with a racket-tossing, composure-missing, lead-evaporating defeat in the third round.",
+            "url": "https://www.foxnews.com/sports/naomi-osaka-us-open-tennis-break-fernandez",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Osaka-Eliminated2.jpg",
+            "publishedAt": "2021-09-04T05:29:43Z",
+            "content": "NEW YORK Naomi Osaka looked over at her agent and said she wanted to tell the world what the two of them had discussed privately in an Arthur Ashe Stadium hallway after her U.S. Open title defense en… [+6806 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Angus Watson and Nectar Gan, CNN",
+            "title": "New Zealand terrorist was released on bail two months before supermarket stabbing - CNN",
+            "description": "The ISIS supporter shot dead by New Zealand police after stabbing seven people in a supermarket Friday had been released from prison in July, Prime Minister Jacinda Ardern said Saturday.",
+            "url": "https://www.cnn.com/2021/09/04/asia/new-zealand-attacker-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210903015001-02-new-zealand-supermarket-attack-super-tease.jpg",
+            "publishedAt": "2021-09-04T05:13:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KTLA Los Angeles"
+            },
+            "author": "Génesis Miranda Miramontes",
+            "title": "New mu variant of coronavirus has appeared in L.A. County, but delta remains dominant - KTLA Los Angeles",
+            "description": "Public health officials are closely monitoring the mu variant of the coronavirus now circulating in Los Angeles County, though they say the delta variant remains the greatest cause for concern.  Labeled as a “variant of interest” on Aug. 30 by the World Healt…",
+            "url": "https://ktla.com/news/public-health-officials-closely-monitor-mu-variant-of-covid-19/",
+            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2021/09/b419aa43d85a405683afb2d79195f9c3-1-1.jpg?w=1280",
+            "publishedAt": "2021-09-04T04:34:55Z",
+            "content": "Public health officials are closely monitoring the mu variant of the coronavirus now circulating in Los Angeles County, though they say the delta variant remains the greatest cause for concern. \r\nLab… [+2288 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendo Life"
+            },
+            "author": "Nintendo Life",
+            "title": "Random: Check Out These Mock-Ups Of Game Boy For Nintendo Switch Online - Nintendo Life",
+            "description": "Will Nintendo release something similar?",
+            "url": "https://www.nintendolife.com/news/2021/09/random_check_out_these_mock-ups_of_game_boy_for_nintendo_switch_online",
+            "urlToImage": "https://images.nintendolife.com/5b3c57298a2a5/1280x720.jpg",
+            "publishedAt": "2021-09-04T04:30:00Z",
+            "content": "People talking about there not being may games on NSO. You realise at the NES app launched with 20 games which included Super Mario Bros, Super Mario Bros 3, Zelda, Excite Bike, Dr Mario. And the SNE… [+322 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "David M. Hale",
+            "title": "Mack Brown sums up preseason darling UNC after loss to Virginia Tech -- 'We were overrated' - ESPN",
+            "description": "North Carolina enjoyed an offseason filled with dark horse playoff buzz, but Virginia Tech upended those aspirations from the opening kickoff Friday, finishing with a 17-10 win in front of a raucous Lane Stadium crowd.",
+            "url": "https://www.espn.com/college-football/story/_/id/32142935/mack-brown-sums-preseason-darling-unc-loss-virginia-tech-were-overrated",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0904%2Fr904442_2_1296x729_16%2D9.jpg",
+            "publishedAt": "2021-09-04T03:37:20Z",
+            "content": "North Carolina enjoyed an offseason filled with dark horse playoff buzz, but Virginia Tech upended those aspirations from the opening kickoff Friday night, finishing with a 17-10 win in front of a ra… [+3764 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Lisa Eadicicco",
+            "title": "After the iPhone 13, the future of Apple's iPhone Mini hangs in the balance - CNET",
+            "description": "Reports suggest that the long-term future of Mini phones looks iffy after Apple's iPhone 12 Mini struggled to gain traction.",
+            "url": "https://www.cnet.com/tech/mobile/after-the-iphone-13-future-of-apples-iphone-mini-hangs-in-balance/",
+            "urlToImage": "https://www.cnet.com/a/img/-Pj3S0B2cEAHiipebBr3Bu690Qo=/1200x630/2020/11/09/ac93d82d-b385-47c0-8090-0fc6f212cc14/11-iphone-12-mini.jpg",
+            "publishedAt": "2021-09-04T03:30:54Z",
+            "content": "The iPhone 12 Mini hasn't been selling well, and reports suggest that an iPhone Mini 13 could be the last. \r\nPatrick Holland/CNET\r\nIf you prefer smaller phones, you have something to look forward to … [+7328 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Andy Rose, CNN",
+            "title": "Texas judge temporarily blocks anti-abortion group from suing Planned Parenthood abortion providers under new law - CNN",
+            "description": "A district judge in Texas has issued a temporary restraining order against Texas Right to Life, blocking the anti-abortion group from suing abortion providers employed by Planned Parenthood under the state's strict new abortion law, according to a copy of the…",
+            "url": "https://www.cnn.com/2021/09/03/politics/texas-right-to-life-planned-parenthood-lawsuit/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210903205915-planned-parenthood-texas-super-tease.jpg",
+            "publishedAt": "2021-09-04T03:01:00Z",
+            "content": "Washington, DC (CNN)A district judge in Texas has issued a temporary restraining order against Texas Right to Life, blocking the anti-abortion group from suing abortion providers employed by Planned … [+3588 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Experts explain the impact California wildfires could have on Lake Tahoe's famed clarity - KCRA News",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9X0tscTVCcWF3ZlHSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-09-04T02:46:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kyle Morris",
+            "title": "One hundred Afghan evacuees flagged for possible terror ties: report - Fox News",
+            "description": "Nearly 100 Afghan refugees from Afghanistan to the United States have been flagged for potential ties to terrorist organizations, including the Taliban, according to a new report.",
+            "url": "https://www.foxnews.com/politics/one-hundred-afghan-evacuees-flagged-for-possible-terror-ties-report",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Afghans-waiting-for-paperwork-to-be-processed.jpg",
+            "publishedAt": "2021-09-04T01:36:33Z",
+            "content": "An estimated 100 Afghan refugees from Afghanistan to the United States have been flagged for potential ties to terrorist organizations, including the Taliban, according to a new report.\r\nOf more than… [+2701 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Antonio Planas, Suzanne Ciechalski",
+            "title": "Three men with zip ties confront Arizona principal after student told to quarantine - NBC News",
+            "description": "Mesquite Elementary School Principal Diane Vargo said three men accosted her Thursday at her Tucson, Arizona, school. One carried zip ties, Vargo said.",
+            "url": "https://www.nbcnews.com/news/us-news/three-men-zip-ties-confront-arizona-principal-after-student-told-n1278504",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_35/3503592/210903-mesquite-elementary-school-al-1351.jpg",
+            "publishedAt": "2021-09-04T01:02:00Z",
+            "content": "A principal in Tucson, Arizona, was confronted by three men, one carrying zip ties, who threatened to make a citizens arrest after the son of one of them was told to quarantine because of possible Co… [+2555 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MovieWeb"
+            },
+            "author": "Jeremy Dick",
+            "title": "Shang-Chi Officially Announced as Marvel's New Avenger - MovieWeb",
+            "description": "Simu Liu's Shang-Chi is named as Marvel's new Avenger in the latest teaser for the new movie Shang-Chi and the Legend of the Ten Rings.",
+            "url": "https://movieweb.com/shang-chi-new-avenger-marvel-mcu/",
+            "urlToImage": "https://cdn3.movieweb.com/i/article/nq38YVBzPs6zPNSibMghDT4rFOYfYS/1200:100/Shang-Chi-New-Avenger-Marvel-Mcu.jpg",
+            "publishedAt": "2021-09-04T00:48:19Z",
+            "content": "Simu Liu's Shang-Chi is the newest Avenger as officially announced by Marvel Studios. As of now, the latest chapter of the Marvel Cinematic Universe, Shang-Chi and the Legend of the Ten Rings, is pla… [+2937 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Victim of Tesla crash in Texas had alcohol level exceeding legal limit - Reuters",
+            "description": "One of the two victims of a fatal crash involving a Tesla car in Texas had a blood-alcohol level that exceeded the legal driving limit, according to an autopsy report.",
+            "url": "https://www.reuters.com/business/autos-transportation/victim-tesla-crash-texas-had-alcohol-level-exceeding-legal-limit-2021-09-03/",
+            "urlToImage": "https://www.reuters.com/resizer/OTTQgtbIM0fiN6ZnBbPjoYLNXuU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YJ5DKM5KEBJJLOBXTWFBR4BGLI.jpg",
+            "publishedAt": "2021-09-03T23:55:00Z",
+            "content": "The logo of Tesla cars logo is seen during the presentation of the new charge system in the EUREF campus in Berlin, Germany September 10, 2020. REUTERS/Michele TantussiSAN FRANCISCO, Sept 3 (Reuters)… [+1690 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Friday 6 PM tropical update: Hurricane Larry, Invest 91 updates - WWLTV",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Ym85Vm9qT3Fyb2fSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-09-03T23:49:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Amy Thompson",
+            "title": "SpaceX's private Inspiration4 mission is 'go' for launch on Sept. 15 - Space.com",
+            "description": "SpaceX and the Inspiration4 team completed the flight readiness reviews on Sept. 2.",
+            "url": "https://www.space.com/spacex-inspiration4-flight-readiness-review",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/hRJmGxkS3L6LUAgLmdpHCd-1200-80.jpg",
+            "publishedAt": "2021-09-03T23:07:26Z",
+            "content": "CAPE CANAVERAL, Fla. SpaceX's first all-civilian launch is officially \"go\" for launch. \r\n\"#Inspiration4 and @SpaceX have completed our flight readiness review and remain on track for launch!\" the Ins… [+3038 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "College football picks, schedule: Predictions against the spread, odds for top 25 games today in Week 1 - CBS Sports",
+            "description": "A closer look at the top games on the slate as the 2021 college football season kicks off",
+            "url": "https://www.cbssports.com/college-football/news/college-football-picks-schedule-predictions-against-the-spread-odds-for-top-25-games-today-in-week-1/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2020/10/31/1b6d695b-09fc-4db3-b13c-67bbaded28fb/thumbnail/1200x675/41ab72b9ba4a0470672909e92e6f0201/dj-uiagalelei-flip-ball-clemson-bc-us.jpg",
+            "publishedAt": "2021-09-03T22:35:17Z",
+            "content": "The first week of the 2021 college football season is officially underway, and while games were played over the last three days, Saturday's slate is absolutely loaded. Not only is there a rare top-fi… [+4907 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jen Christensen, CNN",
+            "title": "More kids hospitalized with Covid-19 in states with lower vaccination rates, CDC report finds - CNN",
+            "description": "More children went to the hospital and emergency room in states with lower vaccination rates, according to a new CDC study.",
+            "url": "https://www.cnn.com/2021/09/03/health/kids-hospitalized-covid/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210903133933-child-covid-houston-0825-super-tease.jpg",
+            "publishedAt": "2021-09-03T22:15:00Z",
+            "content": "(CNN)More children went to the hospital and emergency room in states with lower vaccination rates, according to a new study from the US Centers for Disease Control and Prevention.\r\nChildren have larg… [+3099 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Mercury News"
+            },
+            "author": "Martha Ross",
+            "title": "Angelina Jolie describes fears of Brad Pitt, says children’s safety was at risk - The Mercury News",
+            "description": "When Jolie was asked in a new interview about her divorce from Pitt and whether she feared for her children’s safety, she said: ‘Yes, for my family. My whole family.’",
+            "url": "https://www.mercurynews.com/2021/09/03/angelina-jolie-describes-fears-of-brad-pitt-says-childrens-safety-was-at-risk/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2021/07/Jolie_Pitt_Divorce_02906.jpg?w=1024&h=711",
+            "publishedAt": "2021-09-03T22:14:14Z",
+            "content": "With her ongoing custody battle with Brad Pitt, Angelina Jolie said she can’t say too much about the trauma she alleges that she and her six children suffered at the hands of the actor, but she said … [+4767 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Honolulu Star-Advertiser"
+            },
+            "author": "Associated Press",
+            "title": "Rocket ‘terminated’ in fiery explosion over Pacific Ocean - Honolulu Star-Advertiser",
+            "description": "VANDENBERG SPACE FORCE BASE, Calif. >> A privately designed, unmanned rocket built to carry satellites was destroyed in an explosive fireball after suffering an “anomaly” off the California coast during its first attempt at reaching Earth’s orbit.",
+            "url": "https://www.staradvertiser.com/2021/09/03/breaking-news/rocket-terminated-in-fiery-explosion-over-pacific-ocean/",
+            "urlToImage": "https://www.staradvertiser.com/wp-content/uploads/2021/09/web1_11677451-612c8454f1134314ba293af9b0463b19.jpg",
+            "publishedAt": "2021-09-03T21:59:47Z",
+            "content": "VANDENBERG SPACE FORCE BASE, Calif. &gt;&gt; A privately designed, unmanned rocket built to carry satellites was destroyed in an explosive fireball after suffering an “anomaly” off the California coa… [+2041 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KOB"
+            },
+            "author": "Christina Rodriguez",
+            "title": "New Mexico reports 8 new deaths, 914 additional COVID-19 cases - KOB",
+            "description": "The NMDOH reported eight additional COVID-19-related deaths in Friday's report.",
+            "url": "https://www.kob.com/albuquerque-news/new-mexico-reports-8-new-deaths-914-additional-covid-19-cases/6226309/",
+            "urlToImage": "https://www.kob.com/kobtvimages/repository/2021-09/corona-in-nm-generic.jpg",
+            "publishedAt": "2021-09-03T21:40:18Z",
+            "content": "The latest cases include:\r\n<ul><li>171 new cases in Bernalillo County</li><li>1 new case in Catron County</li><li>96 new cases in Chaves County</li><li>3 new cases in Cibola County</li><li>17 new cas… [+1465 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Life"
+            },
+            "author": "Nicole Edenedo",
+            "title": "Rose McGowan Calls Alyssa Milano A ‘Moron’ In Harsh Tweet Over Texas Abortion Law - HollywoodLife",
+            "description": "Rose McGowan slammed celebrities speaking out in solidarity against the Texas abortion law -- including her former 'Charmed' co-star Alyssa Milano.",
+            "url": "https://hollywoodlife.com/2021/09/03/rose-mcgowan-slams-alyssa-milano-moron-texas-abortion-law/",
+            "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2021/09/Rose-McGown-Alyssa-Milano-shutter-ftr.jpg",
+            "publishedAt": "2021-09-03T21:39:55Z",
+            "content": "Rose McGowan slammed celebrities speaking out in solidarity against the Texas abortion law — including her former ‘Charmed’ co-star Alyssa Milano.\r\nRose McGowan took the time to throw major shade at … [+2638 chars]"
+        }
+    ]
+}
